@@ -2,8 +2,8 @@
 <html>
 
 <head>
-  <title> About John Doe</title>
-</head>
+  <title> John Doe Portofolio </title>
+</head>  
 
 <Body>
   <nav>
@@ -12,5 +12,6 @@
     <a href="project.html">Project</a>
     <a href="contact.html">Contact</a>
   </nav>
+  <h1> About John Doe</h1>
 </Body>
 </html>
